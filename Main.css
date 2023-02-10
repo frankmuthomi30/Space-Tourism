@@ -1,0 +1,47 @@
+body{
+background-image: url(C:\Users\MUTHOMI\Desktop\jitu training\Space-Tourism\space\src\components\images\background-destination-desktop.jpg);
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 180px;
+   
+}
+.place{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: flex-start;
+    width: 500px;
+    
+
+}
+.image-holder{
+    color: white;
+    width: 50%;
+}
+.place h1{
+    font-family: bellefair;
+    font-size: 100px;
+}
+.navbar1{
+    font-size: 16px;
+    font-family: barlow condensed;
+}
+.place  p{
+    font-size:18px;
+    font-family: barlow;
+    font-weight: 400;
+    line-height: 32px;
+}
+.image-holder h2{
+    font-size:28px;
+    font-family: barlow condensed;
+}
+
+
+
+
+
